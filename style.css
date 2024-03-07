@@ -573,7 +573,7 @@
         scroll-snap-type: x mandatory;
         margin-left: 30%;
         margin-top: 100px;
-        -webkit-overflow-scrolling: touch; /* Pour une expérience de défilement plus fluide sur les appareils iOS */
+        -webkit-overflow-scrolling: auto; /* Pour une expérience de défilement plus fluide sur les appareils iOS */
       }
 
     
